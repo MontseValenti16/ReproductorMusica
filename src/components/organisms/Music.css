@@ -1,0 +1,21 @@
+#music-player {
+  max-width: 600px; /* Ancho máximo del reproductor */
+  margin: 0 auto; /* Centrar horizontalmente */
+  padding: 20px;
+  background-color: #bec5cb; /* Color de fondo */
+  border: 1px solid #ced4da; /* Borde */
+  border-radius: 8px; /* Borde redondeado */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+#audio-player {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#track-info {
+  font-size: 1.2rem; /* Tamaño de fuente para el título de la pista */
+  margin-top: 10px;
+  justify-content: center;
+  display: flex;
+}

@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+#cont{
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 0;
+}
+
+body{
+  margin: 0;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(circle, #a98080, lightgray, rgb(250, 206, 125));
+}
+
+
+
